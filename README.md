@@ -1,5 +1,5 @@
 # CSharpCodeBuilder
-Implemented a demo of creation of a new class in runtime via C# Syntax API.
+c# helper to compile c# source code in runtime using Microsoft.CodeAnalysis.
 
 ### Sample code
 ```c#
