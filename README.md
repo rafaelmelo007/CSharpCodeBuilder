@@ -47,3 +47,10 @@ public interface ILogger
 
 
 ```
+
+### Output in console will be:
+```shell
+[INFO] Print INFO at 2/12/2022 11:02:42 AM!
+[WARN] Print WARN at 2/12/2022 11:02:42 AM!
+```
+
