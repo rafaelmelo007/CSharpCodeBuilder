@@ -1,5 +1,5 @@
 # CSharpCodeBuilder
-c# helper to compile c# source code in runtime using Microsoft.CodeAnalysis.
+c# helper to compile source code in runtime. Using Microsoft.CodeAnalysis.
 
 ### Sample code
 ```c#
